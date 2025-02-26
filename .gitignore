@@ -1,0 +1,8 @@
+.vscode/
+
+build/
+
+*.ini
+
+video/
+
